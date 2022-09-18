@@ -1,1 +1,1 @@
-# ecommerce-app
+# laptop-seller
